@@ -239,6 +239,23 @@ $ git log --oneline stats/
 
 ---
 
+```
+$ history | grep "they wouldn't do that"
+
+  COINTELPRO    1956–1971   FBI infiltrated civil rights movements, forged letters, assassinated leaders
+  PRISM         2007–now    NSA bulk-collected data from Google, Apple, Facebook, Microsoft — legally
+  XKeyscore     2008–now    NSA reads emails, chats, browsing history in real time — no warrant required
+  Stasi         1950–1990   1 in 63 East Germans was an informant. files on 6 million citizens
+  Five Eyes     ongoing     US/UK/CA/AU/NZ share mass surveillance to bypass their own domestic laws
+  Pegasus       2016–now    governments bought spyware to target journalists, lawyers, activists
+  MUSCULAR      ongoing     NSA tapped Google and Yahoo data center fiber links without telling them
+  Operation Chaos 1967–1974 CIA ran domestic surveillance on anti-war protesters. illegal. they did it anyway
+
+  └── "they wouldn't do that" — yes they would. yes they did. yes they still do.
+```
+
+---
+
 <div align="center">
 
 ### trophies
