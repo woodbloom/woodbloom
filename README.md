@@ -1,33 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6&height=120&section=header"/>
+```
+██╗    ██╗ ██████╗  ██████╗ ██████╗ ██████╗ ██╗      ██████╗  ██████╗ ███╗   ███╗
+██║    ██║██╔═══██╗██╔═══██╗██╔══██╗██╔══██╗██║     ██╔═══██╗██╔═══██╗████╗ ████║
+██║ █╗ ██║██║   ██║██║   ██║██║  ██║██████╔╝██║     ██║   ██║██║   ██║██╔████╔██║
+██║███╗██║██║   ██║██║   ██║██║  ██║██╔══██╗██║     ██║   ██║██║   ██║██║╚██╔╝██║
+╚███╔███╔╝╚██████╔╝╚██████╔╝██████╔╝██████╔╝███████╗╚██████╔╝╚██████╔╝██║ ╚═╝ ██║
+ ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
+```
 
-<h1>woodbloom</h1>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B894&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Privacy+%26+Security+Focused;Reverse+Engineering+%26+Assembly;Linux+%7C+Android+%7C+Windows+Internals;Building+tools+that+protect+you)](https://github.com/woodbloom)
-
-<p>
-Full Stack Developer building privacy-focused tools and security software.<br/>
-I care about minimal data exposure, encryption by default, and giving users back control.
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Privacy%20Focused-00b894?style=flat-square&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Security%20Tooling-00b894?style=flat-square&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20Source-00b894?style=flat-square&logo=github&logoColor=white&labelColor=0d1117"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Reverse%20Engineering-00b894?style=flat-square&logoColor=white&labelColor=0d1117"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00B894&center=true&vCenter=true&width=750&lines=full+stack+dev+%2F+privacy+%2F+security;javascript+typescript+python+go+java+c%23+c%2B%2B+asm;linux+is+not+a+crime;building+things+that+don%27t+spy+on+you;tux+lives+in+my+heart+%F0%9F%90%A7)](https://github.com/woodbloom)
 
 </div>
 
 ---
 
+```
+whoami
+> woodbloom
+> full stack developer | privacy researcher | linux enjoyer
+> writes code, breaks things, fixes things, encrypts everything
+```
+
+---
+
 <div align="center">
 
-## Languages
+## languages & tools
 
 <br/>
 
@@ -35,15 +34,11 @@ I care about minimal data exposure, encryption by default, and giving users back
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Assembly-x86%20%2F%20x64-00b894?style=for-the-badge&labelColor=0d1117&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/x86%20Assembly-ASM-00b894?style=flat-square&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Bash-Scripting-00b894?style=for-the-badge&labelColor=0d1117&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
 
 <br/><br/>
-
-## Platforms & Tools
-
-<br/>
 
 <img src="https://skillicons.dev/icons?i=linux,android,windows,nodejs,react,docker,git,vscode&theme=dark&perline=8"/>
 
@@ -53,81 +48,42 @@ I care about minimal data exposure, encryption by default, and giving users back
 
 <div align="center">
 
-## Projects
+## // projects
+
+</div>
+
+```
+[*] revenge plugins for discord
+    ├── MoreAlts     → AES-256 encrypted account switcher + PIN + biometrics
+    ├── GhostMode    → block typing indicators & read receipts
+    ├── TokenGuard   → real-time token leak monitor
+    └── Proxifier    → proxy routing + SNI bypass (Russia/Iran/China)
+
+[*] hardening guides
+    ├── Device       → linux / windows / mac — VPN, DNS, encryption, browser
+    ├── Phone        → grapheneos / ios / android — full privacy audit
+    └── Server       → SSH, firewall, IDS, docker, secrets, DDoS
+```
+
+<div align="center">
 
 <br/>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-<tr>
+<a href="https://woodbloom.github.io/revenge-plugins/MoreAlts/"><img src="https://img.shields.io/badge/MoreAlts-install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://woodbloom.github.io/revenge-plugins/GhostMode/"><img src="https://img.shields.io/badge/GhostMode-install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://woodbloom.github.io/revenge-plugins/TokenGuard/"><img src="https://img.shields.io/badge/TokenGuard-install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://woodbloom.github.io/revenge-plugins/Proxifier/"><img src="https://img.shields.io/badge/Proxifier-install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117"/></a>
 
-<td width="50%" align="center" valign="top" style="border: none; padding: 12px;">
+<br/><br/>
 
-### 🖥️ Device Hardening Guide
-Comprehensive guide for hardening desktop Linux/Windows/macOS — VPN, DNS-over-HTTPS, disk encryption, browser anti-fingerprinting, firewall, identity separation and more.
-
-[![Read](https://img.shields.io/badge/Read%20Guide-Device-00b894?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)](https://github.com/woodbloom/Device-hardening-guide)
-
-</td>
-
-<td width="50%" align="center" valign="top" style="border: none; padding: 12px;">
-
-### 📱 Phone Hardening Guide
-iOS & Android privacy settings — permission auditing, MAC randomization, DNS, VPN kill switch, IMSI catcher protection, sensor control, secure communication.
-
-[![Read](https://img.shields.io/badge/Read%20Guide-Phone-00b894?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)](https://github.com/woodbloom/Phone-hardening-guide)
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-### Revenge Plugins for Discord
-
-<br/>
-
-<table align="center" style="border-collapse: collapse; border: none;">
-<tr>
-
-<td width="25%" align="center" valign="top" style="border: none; padding: 10px;">
-
-**🔐 MoreAlts**<br/>
-AES-256 encrypted multi-account switcher with PIN lock, biometrics & per-account encryption salts
-
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/MoreAlts/)
-
-</td>
-
-<td width="25%" align="center" valign="top" style="border: none; padding: 10px;">
-
-**👻 GhostMode**<br/>
-Block typing indicators & read receipts — invisible toggle directly in the You Bar
-
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/GhostMode/)
-
-</td>
-
-<td width="25%" align="center" valign="top" style="border: none; padding: 10px;">
-
-**🛡️ TokenGuard**<br/>
-Real-time monitor for Discord token leakage — logs every network request touching your token
-
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/TokenGuard/)
-
-</td>
-
-<td width="25%" align="center" valign="top" style="border: none; padding: 10px;">
-
-**🔀 Proxifier**<br/>
-Proxy routing with SNI bypass — DNS-over-HTTPS, direct IP, domain fronting for censored regions
-
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/Proxifier/)
-
-</td>
-
-</tr>
-</table>
+<a href="https://github.com/woodbloom/Device-hardening-guide"><img src="https://img.shields.io/badge/Device%20Hardening-read-00b894?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://github.com/woodbloom/Phone-hardening-guide"><img src="https://img.shields.io/badge/Phone%20Hardening-read-00b894?style=flat-square&logo=android&logoColor=white&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://github.com/woodbloom/Server-hardening-guide"><img src="https://img.shields.io/badge/Server%20Hardening-read-00b894?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117"/></a>
 
 </div>
 
@@ -135,12 +91,11 @@ Proxy routing with SNI bypass — DNS-over-HTTPS, direct IP, domain fronting for
 
 <div align="center">
 
-## GitHub Stats
+## // stats
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=woodbloom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b894&icon_color=00b894&text_color=ffffff&count_private=true"/>
-&nbsp;
 <img width="49%" src="https://streak-stats.demolab.com?user=woodbloom&theme=tokyonight&hide_border=true&background=0D1117&ring=00b894&fire=00b894&currStreakLabel=00b894"/>
 
 <br/><br/>
@@ -151,12 +106,7 @@ Proxy routing with SNI bypass — DNS-over-HTTPS, direct IP, domain fronting for
 
 ---
 
-<div align="center">
-
-<sub>Privacy is not hiding — it's reducing what can be linked, tracked and sold.</sub>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6&height=100&section=footer"/>
-
-</div>
+```
+privacy is not hiding
+it's reducing what can be linked, tracked and sold
+```
