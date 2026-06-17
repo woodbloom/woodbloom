@@ -9,36 +9,41 @@
  ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=00B894&center=true&vCenter=true&width=750&lines=full+stack+dev+%2F+privacy+%2F+security;javascript+typescript+python+go+java+c%23+c%2B%2B+asm;linux+is+not+a+crime;building+things+that+don%27t+spy+on+you;tux+lives+in+my+heart+%F0%9F%90%A7)](https://github.com/woodbloom)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00B894&center=true&vCenter=true&width=780&lines=full+stack+dev+%2F+privacy+%2F+security;javascript+typescript+python+go+java+c%23+c%2B%2B+asm;reverse+engineering+%2F+low+level;linux+enjoyer+%F0%9F%90%A7+%2F+building+tools+that+protect+you;your+data+is+yours+%E2%80%94+i+make+sure+of+it)](https://github.com/woodbloom)
+
+![Profile Views](https://komarev.com/ghpvc/?username=woodbloom&color=00b894&style=flat-square&label=profile+views)
 
 </div>
 
 ---
 
 ```
-whoami
+$ whoami
 > woodbloom
-> full stack developer | privacy researcher | linux enjoyer
-> writes code, breaks things, fixes things, encrypts everything
+
+$ cat about.txt
+full stack developer | privacy researcher | linux enjoyer
+writes code — breaks things — fixes things — encrypts everything
+reverse engineering enthusiast | low-level programming | security tooling
 ```
 
 ---
 
 <div align="center">
 
-## languages & tools
-
-<br/>
+### languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,go,cpp&theme=dark&perline=7"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/x86%20Assembly-ASM-00b894?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Assembly-x86%2Fx64-00b894?style=flat-square&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Bash-grey?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/Bash-scripting-00b894?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
 
 <br/><br/>
+
+### platforms & tools
 
 <img src="https://skillicons.dev/icons?i=linux,android,windows,nodejs,react,docker,git,vscode&theme=dark&perline=8"/>
 
@@ -48,21 +53,31 @@ whoami
 
 <div align="center">
 
-## // projects
+### trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=woodbloom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
 
 </div>
 
-```
-[*] revenge plugins for discord
-    ├── MoreAlts     → AES-256 encrypted account switcher + PIN + biometrics
-    ├── GhostMode    → block typing indicators & read receipts
-    ├── TokenGuard   → real-time token leak monitor
-    └── Proxifier    → proxy routing + SNI bypass (Russia/Iran/China)
+---
 
-[*] hardening guides
-    ├── Device       → linux / windows / mac — VPN, DNS, encryption, browser
-    ├── Phone        → grapheneos / ios / android — full privacy audit
-    └── Server       → SSH, firewall, IDS, docker, secrets, DDoS
+```
+$ ls -la projects/
+```
+
+```
+drwxr-xr-x  revenge-plugins/
+├── MoreAlts      AES-256 encrypted account switcher | PIN | biometrics | per-account salt
+├── GhostMode     block typing indicators & read receipts | YouBar toggle
+├── TokenGuard    real-time network monitor | token leak detection | request log
+└── Proxifier     proxy routing | SNI bypass | DoH | domain fronting | Russia/Iran/China
+
+drwxr-xr-x  hardening-guides/
+├── Device        linux / windows / mac | VPN | DNS | encryption | browser | Tor | I2P
+├── Phone         grapheneos / ios / android | IMSI | permissions | sensors | secure comms
+├── Server        SSH | firewall | IDS | docker | secrets | DDoS | Suricata | Vault
+├── Router        OpenWRT | pfSense | OPNsense | Fritz!Box | Mullvad | VLANs
+└── Mac           macOS hardening | Little Snitch | SIP | FileVault | privacy audit
 ```
 
 <div align="center">
@@ -79,34 +94,47 @@ whoami
 
 <br/><br/>
 
-<a href="https://github.com/woodbloom/Device-hardening-guide"><img src="https://img.shields.io/badge/Device%20Hardening-read-00b894?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/woodbloom/Device-hardening-guide"><img src="https://img.shields.io/badge/Device-read-00b894?style=flat-square&labelColor=0d1117"/></a>
 &nbsp;
-<a href="https://github.com/woodbloom/Phone-hardening-guide"><img src="https://img.shields.io/badge/Phone%20Hardening-read-00b894?style=flat-square&logo=android&logoColor=white&labelColor=0d1117"/></a>
+<a href="https://github.com/woodbloom/Phone-hardening-guide"><img src="https://img.shields.io/badge/Phone-read-00b894?style=flat-square&labelColor=0d1117"/></a>
 &nbsp;
-<a href="https://github.com/woodbloom/Server-hardening-guide"><img src="https://img.shields.io/badge/Server%20Hardening-read-00b894?style=flat-square&logo=linux&logoColor=white&labelColor=0d1117"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-## // stats
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=woodbloom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b894&icon_color=00b894&text_color=ffffff&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=woodbloom&theme=tokyonight&hide_border=true&background=0D1117&ring=00b894&fire=00b894&currStreakLabel=00b894"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=woodbloom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00b894&line=00b894&point=ffffff&area=true"/>
+<a href="https://github.com/woodbloom/Server-hardening-guide"><img src="https://img.shields.io/badge/Server-read-00b894?style=flat-square&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://github.com/woodbloom/Router-hardening-guide"><img src="https://img.shields.io/badge/Router-read-00b894?style=flat-square&labelColor=0d1117"/></a>
+&nbsp;
+<a href="https://github.com/woodbloom/Mac-hardening-guide"><img src="https://img.shields.io/badge/Mac-read-00b894?style=flat-square&labelColor=0d1117"/></a>
 
 </div>
 
 ---
 
 ```
+$ git log --oneline stats/
+```
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=woodbloom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b894&icon_color=00b894&text_color=ffffff&count_private=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=woodbloom&theme=tokyonight&hide_border=true&background=0D1117&ring=00b894&fire=00b894&currStreakLabel=00b894"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=woodbloom&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b894&text_color=ffffff&langs_count=8"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=woodbloom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00b894&line=00b894&point=ffffff&area=true"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/woodbloom/woodbloom/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+```
+$ cat manifesto.txt
 privacy is not hiding
 it's reducing what can be linked, tracked and sold
 ```
