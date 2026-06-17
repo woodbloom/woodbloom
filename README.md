@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,00b894&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6&height=120&section=header"/>
 
 <h1>woodbloom</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B894&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Privacy+%26+Security+Focused;Reverse+Engineering+%26+Assembly;Linux+%7C+Android+%7C+Windows+Internals;Building+tools+that+protect+you)](https://github.com/cordinsanity)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B894&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Privacy+%26+Security+Focused;Reverse+Engineering+%26+Assembly;Linux+%7C+Android+%7C+Windows+Internals;Building+tools+that+protect+you)](https://github.com/woodbloom)
 
 <p>
 Full Stack Developer building privacy-focused tools and security software.<br/>
@@ -65,7 +65,7 @@ I care about minimal data exposure, encryption by default, and giving users back
 ### 🖥️ Device Hardening Guide
 Comprehensive guide for hardening desktop Linux/Windows/macOS — VPN, DNS-over-HTTPS, disk encryption, browser anti-fingerprinting, firewall, identity separation and more.
 
-[![Read](https://img.shields.io/badge/Read%20Guide-Device-00b894?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)](https://github.com/cordinsanity/Device-hardening-guide)
+[![Read](https://img.shields.io/badge/Read%20Guide-Device-00b894?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117)](https://github.com/woodbloom/Device-hardening-guide)
 
 </td>
 
@@ -74,7 +74,7 @@ Comprehensive guide for hardening desktop Linux/Windows/macOS — VPN, DNS-over-
 ### 📱 Phone Hardening Guide
 iOS & Android privacy settings — permission auditing, MAC randomization, DNS, VPN kill switch, IMSI catcher protection, sensor control, secure communication.
 
-[![Read](https://img.shields.io/badge/Read%20Guide-Phone-00b894?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)](https://github.com/cordinsanity/Phone-hardening-guide)
+[![Read](https://img.shields.io/badge/Read%20Guide-Phone-00b894?style=for-the-badge&logo=android&logoColor=white&labelColor=0d1117)](https://github.com/woodbloom/Phone-hardening-guide)
 
 </td>
 
@@ -95,7 +95,7 @@ iOS & Android privacy settings — permission auditing, MAC randomization, DNS, 
 **🔐 MoreAlts**<br/>
 AES-256 encrypted multi-account switcher with PIN lock, biometrics & per-account encryption salts
 
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://cordinsanity.github.io/revenge-plugins/MoreAlts/)
+[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/MoreAlts/)
 
 </td>
 
@@ -104,7 +104,7 @@ AES-256 encrypted multi-account switcher with PIN lock, biometrics & per-account
 **👻 GhostMode**<br/>
 Block typing indicators & read receipts — invisible toggle directly in the You Bar
 
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://cordinsanity.github.io/revenge-plugins/GhostMode/)
+[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/GhostMode/)
 
 </td>
 
@@ -113,7 +113,7 @@ Block typing indicators & read receipts — invisible toggle directly in the You
 **🛡️ TokenGuard**<br/>
 Real-time monitor for Discord token leakage — logs every network request touching your token
 
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://cordinsanity.github.io/revenge-plugins/TokenGuard/)
+[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/TokenGuard/)
 
 </td>
 
@@ -122,7 +122,7 @@ Real-time monitor for Discord token leakage — logs every network request touch
 **🔀 Proxifier**<br/>
 Proxy routing with SNI bypass — DNS-over-HTTPS, direct IP, domain fronting for censored regions
 
-[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://cordinsanity.github.io/revenge-plugins/Proxifier/)
+[![Install](https://img.shields.io/badge/Install-00b894?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117)](https://woodbloom.github.io/revenge-plugins/Proxifier/)
 
 </td>
 
@@ -139,13 +139,13 @@ Proxy routing with SNI bypass — DNS-over-HTTPS, direct IP, domain fronting for
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cordinsanity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b894&icon_color=00b894&text_color=ffffff&count_private=true"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=woodbloom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00b894&icon_color=00b894&text_color=ffffff&count_private=true"/>
 &nbsp;
-<img width="49%" src="https://streak-stats.demolab.com?user=cordinsanity&theme=tokyonight&hide_border=true&background=0D1117&ring=00b894&fire=00b894&currStreakLabel=00b894"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=woodbloom&theme=tokyonight&hide_border=true&background=0D1117&ring=00b894&fire=00b894&currStreakLabel=00b894"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=cordinsanity&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00b894&line=00b894&point=ffffff&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=woodbloom&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00b894&line=00b894&point=ffffff&area=true"/>
 
 </div>
 
@@ -157,6 +157,6 @@ Proxy routing with SNI bypass — DNS-over-HTTPS, direct IP, domain fronting for
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,00b894,0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,6&height=100&section=footer"/>
 
 </div>
