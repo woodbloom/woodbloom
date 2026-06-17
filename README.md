@@ -31,13 +31,13 @@ I care about minimal data exposure, encryption by default, and giving users back
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,go&theme=dark&perline=6"/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,go,cpp&theme=dark&perline=7"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Assembly-x86%2Fx64-00b894?style=flat-square&labelColor=0d1117&logo=assemblyscript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-x86%20%2F%20x64-00b894?style=for-the-badge&labelColor=0d1117&logo=assemblyscript&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Bash-Scripting-00b894?style=flat-square&labelColor=0d1117&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-Scripting-00b894?style=for-the-badge&labelColor=0d1117&logo=gnubash&logoColor=white"/>
 
 <br/><br/>
 
