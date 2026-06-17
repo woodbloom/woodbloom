@@ -9,7 +9,7 @@
  ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00B894&center=true&vCenter=true&width=780&lines=full+stack+dev+%2F+privacy+%2F+security;javascript+typescript+python+go+java+c%23+c%2B%2B+asm;reverse+engineering+%2F+low+level;linux+enjoyer+%F0%9F%90%A7+%2F+building+tools+that+protect+you;your+data+is+yours+%E2%80%94+i+make+sure+of+it)](https://github.com/woodbloom)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2200&pause=700&color=00B894&center=true&vCenter=true&width=780&lines=full+stack+dev+%2F+privacy+%2F+security;js+ts+python+go+java+c%23+c%2B%2B+asm;reverse+engineering+%2F+low+level;linux+%2F+android+%2F+windows)](https://github.com/woodbloom)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=woodbloom&color=00b894&style=flat-square&label=profile+views)
 
@@ -22,9 +22,8 @@ $ whoami
 > woodbloom
 
 $ cat about.txt
-full stack developer | privacy researcher | linux enjoyer
-writes code — breaks things — fixes things — encrypts everything
-reverse engineering enthusiast | low-level programming | security tooling
+full stack developer | privacy & security | low-level programming
+reverse engineering | tooling | linux
 ```
 
 ---
@@ -46,16 +45,6 @@ reverse engineering enthusiast | low-level programming | security tooling
 ### platforms & tools
 
 <img src="https://skillicons.dev/icons?i=linux,android,windows,nodejs,react,docker,git,vscode&theme=dark&perline=8"/>
-
-</div>
-
----
-
-<div align="center">
-
-### trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=woodbloom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
 
 </div>
 
@@ -109,6 +98,123 @@ drwxr-xr-x  hardening-guides/
 ---
 
 ```
+$ cat privacy-tools.txt
+```
+
+```
+VPN ──────────────────────────────────────────────────────────────────
+  Mullvad          no account needed, pay with cash/crypto, WireGuard, audited
+  IVPN             no email signup, open source client, multihop, audited
+  ProtonVPN        free tier, swiss jurisdiction, open source, no logs audited
+  -- avoid --      NordVPN (data broker owner), Surfshark (same), any "free" VPN
+
+EMAIL ────────────────────────────────────────────────────────────────
+  Proton Mail      E2E encrypted, swiss, free tier, open source
+  Tutanota         E2E encrypted, german, free tier, open source
+  Disroot          community run, no tracking, XMPP + email
+  SimpleLogin      alias service — one address per site, stop spam + tracking
+  -- avoid --      Gmail, Outlook, Yahoo — full content scanning
+
+OPERATING SYSTEM ─────────────────────────────────────────────────────
+  Desktop:
+    Fedora          good default privacy, SELinux, up to date packages
+    Debian          stable, minimal telemetry, huge package repo
+    Arch            rolling release, you control everything, AUR
+    Tails           amnesic live OS, routes everything via Tor, leaves no trace
+    Whonix          Tor workstation + gateway in VMs, strong isolation
+    Qubes OS        compartmentalization via VMs, NSA whistleblower pick
+  Mobile:
+    GrapheneOS      Android hardened, sandboxed Google Play, best choice
+    CalyxOS         MicroG, easier transition from stock Android
+    DivestOS        broad device support, degoogled
+
+BROWSER ──────────────────────────────────────────────────────────────
+  Firefox          most configurable, uBlock Origin, about:config hardening
+  Brave            chromium-based, built-in shields, no Google sync
+  Tor Browser      best fingerprint resistance, onion routing
+  LibreWolf        Firefox fork, hardened by default, no telemetry
+  -- avoid --      Chrome (telemetry, Google sync), Edge (MS tracking)
+
+SEARCH ───────────────────────────────────────────────────────────────
+  SearXNG          self-hosted meta-search, aggregates results, no tracking
+  Brave Search      independent index, no Google/Bing dependency
+  DuckDuckGo       no personal profiling, US-based
+  Startpage        Google results, no tracking (but owned by Privacy One Group)
+  -- avoid --      Google, Bing, Yahoo
+
+DNS ──────────────────────────────────────────────────────────────────
+  Mullvad DNS      no logs, blocks ads+trackers, DoH/DoT
+  Quad9            blocks malware domains, non-profit, DoH/DoT
+  NextDNS          configurable, per-device, logs optional
+  AdGuard Home     self-hosted, full control, best option
+  -- avoid --      ISP default DNS (they log and sell queries)
+
+MESSAGING ────────────────────────────────────────────────────────────
+  Signal           E2E encrypted, sealed sender, open source, phone required
+  Session          no phone number, decentralized, onion routing
+  Briar            P2P, works over Tor, no server at all
+  Matrix/Element   federated, self-hostable, E2E with encryption
+  XMPP + OMEMO     federated, old but works, E2E with OMEMO plugin
+  -- avoid --      WhatsApp (metadata to Meta), Telegram (not E2E by default)
+
+PASSWORD MANAGER ─────────────────────────────────────────────────────
+  KeePassXC        local, open source, no cloud, maximum control
+  Bitwarden        open source, self-hostable, free cloud tier
+  -- avoid --      LastPass (breached), iCloud Keychain (Apple access without ADP)
+
+2FA ──────────────────────────────────────────────────────────────────
+  YubiKey          hardware token, phishing-resistant FIDO2, best option
+  Aegis (Android)  open source TOTP app, encrypted backup
+  Ente Auth        open source, E2E encrypted cloud sync
+  -- avoid --      SMS 2FA (SIM swap attacks), Authy (proprietary)
+
+FILE SYNC / CLOUD ────────────────────────────────────────────────────
+  Syncthing        P2P sync, no server, open source, works on LAN
+  Cryptomator      encrypt files before uploading to any cloud
+  Nextcloud        self-hosted Google Drive alternative
+  -- avoid --      Google Drive, OneDrive, Dropbox (unencrypted at rest)
+
+TORRENTING ───────────────────────────────────────────────────────────
+  qBittorrent      open source, no ads, no bundled malware
+  Transmission     lightweight, clean, good Linux support
+  Deluge           plugin-based, lightweight, cross-platform
+  setup tips:
+    - VPN kill switch: ON (block torrents if VPN drops)
+    - Bind torrent client to VPN interface only
+    - Use private trackers where possible
+    - Seedboxes: rent a server in a torrent-friendly jurisdiction
+    - I2P Bittorrent: fully anonymous via I2P network (slower)
+
+P2P / ANONYMOUS FILE SHARING ────────────────────────────────────────
+  OnionShare       share files via Tor onion service, no account, no server
+  I2P Bittorrent   anonymous torrenting via I2P network
+  Freenet          censorship-resistant distributed store
+  RetroShare       P2P chat + file sharing via F2F network
+  IPFS             decentralized, content-addressed storage
+
+ENCRYPTION ───────────────────────────────────────────────────────────
+  VeraCrypt        full disk / hidden containers, successor to TrueCrypt
+  LUKS2            Linux disk encryption, standard
+  age              modern file encryption CLI, simple
+  GPG              email + file signing/encryption, web of trust
+  Cryptomator      cloud-friendly per-file encryption
+
+NETWORK ANALYSIS ─────────────────────────────────────────────────────
+  Wireshark        full packet capture and analysis
+  nmap             port scanner, OS detection, script engine
+  tcpdump          CLI packet capture
+  Little Snitch    macOS per-app outbound firewall with live traffic map
+  NetGuard         Android no-root firewall, per-app blocks
+
+METADATA REMOVAL ─────────────────────────────────────────────────────
+  ExifTool         strip EXIF from images/docs (CLI)
+  MAT2             metadata removal for many file types
+  ImageOptim       macOS, batch EXIF strip
+```
+
+---
+
+```
 $ git log --oneline stats/
 ```
 
@@ -133,8 +239,10 @@ $ git log --oneline stats/
 
 ---
 
-```
-$ cat manifesto.txt
-privacy is not hiding
-it's reducing what can be linked, tracked and sold
-```
+<div align="center">
+
+### trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=woodbloom&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7"/>
+
+</div>
